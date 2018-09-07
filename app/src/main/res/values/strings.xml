@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FetchImageFromGallery</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="item_gallery">item gallery</string>
+    <string name="permission_denied">Permission denied to read your External storage</string>
+</resources>
